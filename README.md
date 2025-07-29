@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Jalperdev!;" />
-</h1>
+</p>
 
 ###
 <h2 align="left">👩‍💻  About Me</h2>
@@ -46,6 +46,19 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=jalperdev&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Jalperdev's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jalperdev&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Jalperdev's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=jalperdev&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Jalperdev's Most Used Languages" />
+</div>
+
+<hr>
+
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jalperdev/jalperdev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jalperdev/jalperdev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jalperdev/jalperdev/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <hr>
