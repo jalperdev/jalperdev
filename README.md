@@ -13,7 +13,8 @@
 
 ### A full-stack/back-end/cybersecurity software engineer passionate about building beautiful, functional, and clean code.
 
-
+- 🌱 I’m currently learning **[Python](https://www.python.org/)**
+- 💬 Ask me about **Java, SQL, Bash...or anything [here](https://github.com/jalperdev/jalperdev/issues)**
 
 ###
 
@@ -61,6 +62,30 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </a>
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,haskell,bash,amazonwebservices,docker" />
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,notion,git,github,bitbucket" />
+</p>
+
+<hr>
+
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+</div>
+
+<hr>
+
+
 
 <!--
 **jalperdev/jalperdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
