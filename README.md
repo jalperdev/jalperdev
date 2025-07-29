@@ -7,7 +7,7 @@
 
 ###
 
-### A full-stack/back-end/cybersecurity software engineer passionate about building beautiful, functional, and clean code.
+### A full-stack/back-end/cybersecurity computer engineer passionate about building beautiful, functional, and clean code.
 
 - 🌱 I’m currently learning **[Python](https://www.python.org/)**
 - 💬 Ask me about **Java, SQL, Bash...or anything [here](https://github.com/jalperdev/jalperdev/issues)**
