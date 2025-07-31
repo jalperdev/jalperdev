@@ -19,7 +19,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,html,css,haskell,bash,amazonwebservices,docker" />
+  <img src="https://skillicons.dev/icons?i=c,java,maven,html,css,haskell,bash,amazonwebservices,docker" />
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
